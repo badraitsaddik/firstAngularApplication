@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "HP Laptop",
+      "price": 100,
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": " tablet",
+      "price": 200,
+      "checked": true
+    },
+    {
+      "id": "3",
+      "name": "desktop Laptop",
+      "price": 300,
+      "checked": false
+    },
+    {
+      "id": "4",
+      "name": "Mac Laptop",
+      "price": 400,
+      "checked": true
+    },
+    {
+      "id": "5",
+      "name": "Dell Laptop",
+      "price": 500,
+      "checked": true
+    }
+  ]
+}
